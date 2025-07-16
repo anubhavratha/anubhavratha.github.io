@@ -5,3 +5,4 @@ repo_description_lines_max: 2
 
 github_repos:
   - anubhavratha/conic_electricity_markets
+  - anubhavratha/ng_stochastic_control_and_pricing
