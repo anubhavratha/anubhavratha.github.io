@@ -65,7 +65,84 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-are-electricity-markets-fit-for-purpose-part-v-towards-future-ready-markets",
+        
+          title: 'Are electricity markets fit for purpose? Part V: Towards future-ready markets <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/clean-energy-for-billions/are-electricity-markets-fit-for-purpose-part-v-towards-future-ready-markets-2e2bb42a46d0?source=rss-a256e97b7666------2", "_blank");
+          
+        },
+      },{id: "post-are-electricity-markets-fit-for-purpose-part-iv-is-the-commodity-wrong",
+        
+          title: 'Are electricity markets fit for purpose? Part IV: Is the commodity wrong? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/clean-energy-for-billions/are-electricity-markets-fit-for-purpose-part-4-is-the-commodity-wrong-7520ea53fee8?source=rss-a256e97b7666------2", "_blank");
+          
+        },
+      },{id: "post-are-electricity-markets-fit-for-purpose-part-iii-an-elephant-called-risk",
+        
+          title: 'Are electricity markets fit for purpose? Part III: An elephant called Risk <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/clean-energy-for-billions/are-electricity-markets-fit-for-purpose-part-3-an-elephant-called-risk-2b7b37b4df7e?source=rss-a256e97b7666------2", "_blank");
+          
+        },
+      },{id: "post-price-cannibalisation-effect",
+        
+          title: 'Price cannibalisation effect <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/clean-energy-for-billions/price-cannibalisation-effect-a09f4ed371e6?source=rss-a256e97b7666------2", "_blank");
+          
+        },
+      },{id: "post-are-electricity-markets-fit-for-purpose-part-ii-the-incompleteness-of-lcoe",
+        
+          title: 'Are electricity markets fit for purpose? Part II: The Incompleteness of LCoE <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/clean-energy-for-billions/are-electricity-markets-fit-for-purpose-part-2-the-incompleteness-of-lcoe-658c44470cce?source=rss-a256e97b7666------2", "_blank");
+          
+        },
+      },{id: "post-are-electricity-markets-fit-for-purpose-part-i-designed-for-the-past",
+        
+          title: 'Are electricity markets fit for purpose? Part I: Designed for the past <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/clean-energy-for-billions/are-electricity-markets-fit-for-purpose-part-1-designed-for-the-past-495df82eb04a?source=rss-a256e97b7666------2", "_blank");
+          
+        },
+      },{id: "post-climate-change-and-ai-hooked-society-a-compatibility-check",
+        
+          title: 'Climate Change and AI-hooked Society: A Compatibility Check <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/clean-energy-for-billions/climate-change-and-an-ai-hooked-society-a-compatibility-check-d9a6a8d97cf6?source=rss-a256e97b7666------2", "_blank");
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -87,15 +164,15 @@ ninja.data = [{
             window.location.href = "/blog/2024/photo-gallery/";
           
         },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+      },{id: "post-ascent",
         
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Ascent <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+            window.open("https://medium.com/@anubhavrath/ascent-c23b36ba0036?source=rss-a256e97b7666------2", "_blank");
           
         },
       },{id: "post-a-post-with-tabs",
@@ -140,6 +217,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/pseudocode/";
+          
+        },
+      },{id: "post-sun-blissed",
+        
+          title: 'Sun-blissed <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@anubhavrath/sun-kissed-b2c69d2d2d32?source=rss-a256e97b7666------2", "_blank");
           
         },
       },{id: "post-a-post-with-code-diff",
@@ -206,6 +294,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/chartjs/";
+          
+        },
+      },{id: "post-hopes-amp-dreams",
+        
+          title: 'Hopes &amp; Dreams <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@anubhavrath/hopes-dreams-fb2fd7de006b?source=rss-a256e97b7666------2", "_blank");
           
         },
       },{id: "post-a-post-with-tikzjax",
@@ -316,17 +415,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2022/giscus-comments/";
-          
-        },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
       },{id: "post-a-post-with-redirect",
