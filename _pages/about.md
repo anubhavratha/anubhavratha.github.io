@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher 
+subtitle: Independent Researcher || EE PhD with focus on energy markets
 
 profile:
   align: right
@@ -24,10 +24,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+#### Hi and welcome!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am an Independent Researcher, currently on a brief career break, working on a few cool personal projects.  Until recently, I was working as Optimization Specialist in the R&D division at <a href="https://www.vestas.com/en"> Vestas Wind Systems </a> in Denmark after receiving my PhD degree from <a href="https://www.dtu.dk/english/">Technical University of Denmark (DTU)</a>. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+At Vestas, I developed algorithms for risk-aware participation of wind and wind-based hybrid power plants, e.g., power-to-x, in energy markets. During my PhD, I developed novel market mechanisms and products for energy systems (electricity and gas) to better integrate weather-dependent renewable energy sources (solar, wind) into these markets. 
 
-I am an Independent Researcher working on 
+Previously, I co-founded a CleanTech startup, <a href="https://sharedelectric.com">Shared Electric</a>, based out of Zurich, Switzerland, where we built demand response solutions to accelerate the clean energy transition in Europe and India. 
+
+I am passionate about writing on the topics of climate change, sustainability, and energy policy, with a specific focus on developing countries. My articles are published in <a href="https://medium.com/clean-energy-for-billions">Clean Energy for Billions</a>. 
+
+As a person, I enjoy engaging in persuasive communication by effectively breaking down complex scientific ideas and in mentoring and inspiring colleagues. I thrive in uncertain, dynamic, and complex environments where I apply my skills to discover solutions that are novel, optimal, and compassionate, while balancing various constraints and viewpoints.
+
+My core technical expertise lies in energy markets, stochastic optimization, game theory, probability and statistics, forecasting, product management, and software development. 
+
+Research topics of current interest to me are data markets and value of information in energy markets, challenges at the intersection of AI and climate change, and bottlenecks to renewable energy projects. 
+
