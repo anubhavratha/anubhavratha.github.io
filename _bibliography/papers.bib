@@ -7,7 +7,12 @@
   booktitle={2025 21st International Conference on the European Energy Market (EEM)},
   pages={1--9},
   year={2025},
-  organization={IEEE}
+  organization={IEEE},
+  pdf={2025_flexible_contract_design.pdf},
+  preview={preview_2025_flexible_contract_design.png},
+  abstract={Power-to-X is seen as a promising option for decarbonising hard-to-electrify sectors, yet its scalability is limited by challenges such as mismatched contractual expectations between suppliers and offtakers, hindering the path to final investment decision. Pricing flexibility into green hydrogen offtake contracts can address the intermittency of renewable energy and help address these issues. While flexible offtake contracts have been studied in the literature, their impact on economic feasibility has not been thoroughly investigated. We explore strategies to increase flexibility in green hydrogen contracts by proposing adaptive pricing structures that consider supply shortages, surpluses, delivery horizons, and hydrogen classifications. Our analysis shows that flexible offtake contracts improve the bankability of green hydrogen projects. By accounting for delivery variability and low-carbon hydrogen production, these contracts allow offtakers to better express their true need for delivery certainty, allowing to share the risk of renewable intermittency, thereby de-risking investments.},
+  bibtex_show={true},
+  selected={false},
 }
 
 @article{falconer2025selling,
@@ -16,7 +21,12 @@
   journal={arXiv preprint arXiv:2505.00405},
   year={2025},
   arxiv={2505.00405},
-  selected={true}
+  selected={true},
+  abstract={A competitive market is modeled as a game of incomplete information. One player observes some payoff-relevant state and can sell (possibly noisy) messages thereof to the other, whose willingness to pay is contingent on their own beliefs. We frame the decision of what information to sell, and at what price, as a product versioning problem. The optimal menu screens buyer types to maximize profit, which is the payment minus the externality induced by selling information to a competitor, that is, the cost of refining a competitor's beliefs. For a class of games with binary actions and states, we derive the following insights: (i) payments are necessary to provide incentives for information sharing amongst competing firms; (ii) the optimal menu benefits both the buyer and the seller; (iii) the seller cannot steer the buyer's actions at the expense of social welfare; (iv) as such, as competition grows fiercer it can be optimal to sell no information at all.},
+  code={https://github.com/tdfalc/trading-information},
+  preview={preview_2025_trading_information.png},
+  pdf={2025_trading_information.pdf},
+  bibtex_show={true},
 }
 
 @article{ratha2023moving,
@@ -28,9 +38,30 @@
   pages={762--783},
   year={2023},
   publisher={Elsevier},
-  pdf={conic_markets_pdf.pdf},
-  selected={true}
+  arxiv={2103.12122},
+  pdf={2023_conic_markets.pdf},
+  selected={true},
+  abstract={We propose a new forward electricity market framework that admits heterogeneous market participants with second-order cone strategy sets, who accurately express the nonlinearities in their costs and constraints through conic bids, and a network operator facing conic operational constraints. In contrast to the prevalent linear-programming-based electricity markets, we highlight how the inclusion of second-order cone constraints improves uncertainty-, asset- and network-awareness of the market, which is key to the successful transition towards an electricity system based on weather-dependent renewable energy sources. We analyze our general market-clearing proposal using conic duality theory to derive efficient spatially-differentiated prices for the multiple commodities, comprising of energy and flexibility services. Under the assumption of perfect competition, we prove the equivalence of the centrally-solved market-clearing optimization problem to a competitive spatial price equilibrium involving a set of rational and self-interested participants and a price setter. Finally, under common assumptions, we prove that moving towards conic markets does not incur the loss of desirable economic properties of markets, namely market efficiency, cost recovery and revenue adequacy. Our numerical studies focus on the specific use case of uncertainty-aware market design and demonstrate that the proposed conic market brings advantages over existing alternatives within the linear programming market framework.},
+  preview={preview_2023_conic_markets.png},
+  code={https://github.com/anubhavratha/conic_electricity_markets},
+  bibtex_show={true},
 }
+
+@phdthesis{rath2022phdthesis,
+title = {Market Design for Integrated Energy Systems of the Future},
+abstract = {Global energy decarbonization relies on electricity systems with large shares of uncertain and variable renewable energy sources. Electrification of energy end uses such as transportation and space heating are further increasing the stochasticity of demand. As a result, system operators must procure additional operational flexibility to maintain a supply-demand balance in the presence of production and consumption forecast errors. Beyond flexible resources within the electricity system, short-term coordination among the various energy systems (e.g., electricity, natural gas, and district heating), provides additional flexibility which remains largely untapped. Harnessing this cross-carrier flexibility is appealing since it does not require large infrastructure investments, rather relying on effective coordination among the various actors in the energy systems. Furthermore, establishing this coordination in a market-based framework is essential to harness cross-carrier flexibility in a long-term and sustainable manner. In this context, the objective of this thesis is to improve the market-based coordination among energy systems at operational time scales to incentivize, steer, and harness cross-carrier flexibility in competitive settings. The thesis contributes by developing new market-clearing frameworks for energy systems, relying on stochastic optimization techniques. Moreover, new commodities representing flexibility services, such as policy-based reserves, adjustment policies, and variance minimization services, are proposed which contribute towards a cost-efficient and reliable harnessing of cross-carrier flexibility. Using tools from mechanism design and game theory, the proposed market frameworks are evaluated for their ability to satisfy the desired economic properties of competitive markets, such as efficiency, cost recovery, and revenue adequacy. To account for the heterogeneous flexibility providers in the integrated energy system, this thesis introduces a novel flexibility-centric electricity market-clearing framework. The proposed forward market admits participants with second order cone strategy sets and revisits the classical spatial price equilibrium problem in a second-order cone programming context. Generalizing over the existing linear programming-based electricity markets, conic markets enable participants to accurately express the nonlinearities in their costs and constraints through conic bids, and the network operators to model a physically-accurate flow of energy in the networks. The inclusion of second-order cone constraints makes electricity markets uncertainty-, asset-, and network-aware, thereby incentivizing heterogeneous flexibility providers across the integrated energy system to participate in a market-based flexibility procurement. Under the assumption of perfect competition, it is analytically proven that moving towards conic electricity markets does not incur the loss of any desired economic properties inherent to the linear markets.Harnessing cross-carrier flexibility is expected to propagate short-term uncertainty across the energy system boundaries. This adversely impacts the reliability and price competitiveness of the coupled energy systems due to network congestion and the resulting price spikes. To address that, a new uncertainty-aware coordination framework is proposed to model and mitigate the uncertainty propagation in coupled electricity and natural gas systems. Flexible assets in both systems as well as the network flexibility provided by short-term storage of gas in pipelines are employed in mitigating the adverse effects of uncertainty propagating from the electricity to the gas side. Convexification strategies are adopted to manage the non-convexities underlying the gas system model in stochastic settings. An efficient pricing scheme is developed which endogenously considers uncertainty and the variance of state variables in the energy systems. In contrast to deterministic coordination among energy systems, market participants are remunerated (penalized) for their contribution to mitigating (aggravating) the adverse impacts of uncertainty.},
+author = {Anubhav Ratha},
+year = {2022},
+doi = {10.11581/DTU.00000248},
+language = {English},
+publisher = {Technical University of Denmark, Department of Electrical Engineering},
+bibtex_show={true},
+preview={preview_2022_anubhav_ratha_phd_thesis.png},
+pdf={2022_anubhav_ratha_phd_thesis.pdf},
+video={https://youtu.be/joFcW7ApTi4},
+slides={2022_slides_phd_defense.pdf}
+}
+
 
 @article{dvorkin2021stochastic,
   title={Stochastic control and pricing for natural gas networks},
@@ -40,7 +71,14 @@
   number={1},
   pages={450--462},
   year={2021},
-  publisher={IEEE}
+  publisher={IEEE},
+  arxiv={2010.03283},
+  pdf={2021_stochastic_control_pricing_ng.pdf},
+  preview={preview_2021_stochastic_control_pricing_ng.png},
+  abstract={We propose stochastic control policies to cope with uncertain and variable gas extractions in natural gas networks. Given historical gas extraction data, these policies are optimized to produce the real-time control inputs for nodal gas injections and for pressure regulation rates by compressors and valves. We describe the random network state as a function of control inputs, which enables a chance-constrained optimization of these policies for arbitrary network topologies. This optimization ensures the real-time gas flow feasibility and a minimal variation in the network state up to specified feasibility and variance criteria. Furthermore, the chance-constrained optimization provides the foundation of a stochastic pricing scheme for natural gas networks, which improves on a deterministic market settlement by offering the compensations to network assets for their contribution to uncertainty and variance control. We analyze the economic properties, including efficiency, revenue adequacy and cost recovery, of the proposed pricing scheme and make them conditioned on the network design.},
+  video={https://youtu.be/DYCgE7dsoWU},
+  code={https://github.com/anubhavratha/ng_stochastic_control_and_pricing},
+  bibtex_show={true},
 }
 
 @article{ratha2020affine,
@@ -50,7 +88,13 @@
   volume={189},
   pages={106565},
   year={2020},
-  publisher={Elsevier}
+  publisher={Elsevier},
+  bibtex_show={true},
+  video={https://youtu.be/x010UjQ5qTI},
+  preview={preview_2020_affine_policies.png},
+  pdf={2020_affine_policies.pdf},
+  code={https://github.com/anubhavratha/PSCC_NG_EL_FlexibilityAffinePolicies},
+  abstract={Using flexibility from the coordination of power and natural gas systems helps with the integration of variable renewable energy in power systems. To include this flexibility into the operational decision-making problem, we propose a dis- tributionally robust chance-constrained co-optimization of power and natural gas systems considering flexibility from short-term gas storage in pipelines, i.e., linepack. Recourse actions in both systems, based on linear decision rules, allow adjustments to the dispatch and operating set-points during real-time operation when the uncertainty in wind power production is revealed. We convexify the non-linear and non-convex power and gas flow equations using DC power flow approximation and second-order cone relaxation, respectively. Our coordination approach enables a study of the mitigation of short-term uncertainty propagated from the power system to the gas side. We analyze the results of the proposed approach on a case study and evaluate the solution quality via out-of-sample simulations performed ex-ante.},
 }
 
 @inproceedings{ratha2019exploring,
@@ -59,7 +103,13 @@
   booktitle={2019 IEEE 58th Conference on Decision and Control (CDC)},
   pages={7498--7505},
   year={2019},
-  organization={IEEE}
+  organization={IEEE},
+  bibtex_show={true},
+  video={https://video.ethz.ch/events/2019/energy/e92beee9-77d0-4273-acdc-7aede083ab4a.html},
+  abstract={This paper proposes a market mechanism for co-optimization of energy and reserve procurement in day- ahead electricity markets with high shares of renewable energy. The single-stage chance-constrained day-ahead market clearing problem takes uncertain wind in-feed into account, resulting in optimal day-ahead dispatch schedule and an affine participation policy for generators for the real-time reserve provision. Under certain assumptions, the chance-constrained market clearing is reformulated as a convex quadratic program. Using tools from equilibrium modeling and variational inequalities, we explore the existence and uniqueness of a Nash equilibrium. Under the assumption of perfect competition in the market, we evaluate the satisfaction of desirable market properties, namely cost recovery, revenue adequacy, market efficiency, and incentive compatibility. To illustrate the effectiveness of the proposed market clearing, it is benchmarked against a deterministic co- optimization of energy and reserve procurement. Biased and unbiased out-of-sample simulation results for a power systems test case highlight that the proposed market clearing results in lower expected system operations cost than the deterministic benchmark, without the loss of any desirable market properties.},
+  preview={preview_2019_exploring_market_properties.png},
+  pdf={2019_exploring_market_properties.pdf},
+  code={https://github.com/anubhavratha/policy_based_reserves_CDC_2019},
 }
 
 @inproceedings{haring2015wind,
@@ -68,7 +118,11 @@
   booktitle={2015 IEEE Power \& Energy Society General Meeting},
   pages={1--5},
   year={2015},
-  organization={IEEE}
+  organization={IEEE},
+  abstract={A major challenge in power system operation is the integration of renewable energy in-feed in large scale. Currently, the responsibility to cope with uncertainty in power injection is transferred to a central authority, i.e. the system operator, while renewable energy in-feed is supported via a tariff system. In this paper we propose market participation of wind farms in combination with a third-party energy storage. A novel concept of storage capacity reservation is presented, where the wind power producer hedges unfavorable wind power realizations with a third-party storage. In a day-ahead scheduling stage, profit maximizing bids for the day-ahead market are stated incorporating costs of storage reservation. During an intra-day stage, the storage device backs up the wind power producer by tracking its day-ahead market bids. In a simulation study we show that after the consideration of the costs of storage reservations and storage operation, the proposed model can lead to profitable operation of wind power plants while minimizing the profit variability.},
+  preview={preview_2015_wind_farm_storage.png},
+  pdf={2015_wind_farm_storage.pdf},
+  bibtex_show={true},
 }
 
 @article{ratha2013india,
@@ -78,7 +132,12 @@
   volume={5},
   number={4},
   pages={3--6},
-  year={2013}
+  year={2013},
+  preview={preview_2013_india_outage_2012.png},
+  pdf={2013_india_outage_2012.pdf},
+  bibtex_show={true},
+  html={https://medium.com/p/639e31fb52ad},
+  abstract={On 30 and 31 July 2012, two large-scale power blackouts occurred in India, which can easily be termed as the worst power crisis ever in the history of mankind. The first of the two outages affected nearly 350 million people, while the second one involved a whooping 670 million people, one-tenth of the world’s population and spread over 21 out of 28 Indian states. As the global media turned its attention towards the issue, key players in the Indian power sector were at loggerheads over a blame game. However, the important question that needs answering is what really happened which caused the outage and how can it be avoided in future. This invited article reconstructs the events that led to these massive power outage events, analyzes the root cause, and recommends future actions.}
 }
 
 @inproceedings{ratha2013value,
@@ -87,6 +146,21 @@
   booktitle={2013 IEEE Power \& Energy Society General Meeting},
   pages={1--5},
   year={2013},
-  organization={IEEE}
+  organization={IEEE},
+  preview={preview_2013_value_of_lost_load.png},
+  pdf={2013_value_of_lost_load.pdf},
+  abstract={In the current operation of power systems, the paradigm states that the customer should be supplied with power at all times. The adherence to this paradigm may cause unnecessarily high costs. In order to operate a system where a supply-outage to customers is used as an acceptable, albeit expensive operative decision, it is essential to know the cost of this shedding. The classical method of calculating the Value of Lost Load (VOLL) has been the use of customer surveys. Due to their nature, surveys cover only a snapshot of the spectrum of parameters which affect the valuation. Moreover, VOLL is often expressed as a function of a single parameter such as duration of the outage or frequency of recurrence. This is inadequate modelling because a variety of parameters influence the magnitude of the costs incurred on account of an outage. The study in this paper presents an approach of using data from choice experiment surveys along with available interruption cost functions to introduce a more dynamic nature to the VOLL. Several parameters which affect the cost of an outage have been identified, classified and suitably incorporated into the model developed. The results from sensitivity analysis of the outage costs to these parameters show the possibility of using the concept of VOLL in short-term operative planning and contingency schemes of a power system, in addition to the more traditional use so far in long-term reliability planning.},
+  bibtex_show={true},
 }
 
+@thesis{ratha2013optimal,
+  title={Optimal Wind Power Plant Bidding under Consideration of Storage},
+  author={Ratha, Anubhav},
+  language = {English},
+  year={2013},
+  publisher = {Swiss Federal Institute of Technology (ETH), Zurich},
+  preview={preview_2013_anubhav_ratha_msc_thesis.png},
+  pdf={2013_anubhav_ratha_msc_thesis.pdf},
+  abstract={In this master thesis, a model is proposed to enable profitable market par- ticipation of wind power plants considering the availability of second-party owned energy storage. A novel concept of storage capacity reservations is presented using which the wind power producer hedges against wind out- comes which are unfavourable with respect to its day-ahead market bids. The idea that wind power producers need not to own storage devices is explored through decoupling of storage operation during actual energy pro- duction from the participation in day-ahead markets. Hence, the overall model is divided into two stages: day-ahead scheduling and intra-day oper- ation. In the day-ahead scheduling stage, profit maximizing bids for the day-ahead market are prepared while in the intra-day operation stage, the storage de- vice owner assists the wind power producer in tracking its day-ahead market bids through suitable storage scheduling and through participation in intra- day adjustment markets. The day-ahead market bids are decided such that they are energy-neutral with respect to expected use of storage for imbal- ance mitigation. This allows the storage device owner to efficiently plan its operation schedule without worrying about overuse or under-utilization of storage capacity by the wind power producer. The model is validated by comparing it with the participation of wind power plants in electricity markets on its own. The case study shows that even af- ter considering the costs of storage reservations and storage operation, the proposed model leads to maximization of profits for the wind power plants while eliminating the profit variability. Furthermore, the lost opportunity costs of having a joint wind-storage power plant is avoided through decoupling of the storage device from wind power producer. Mitigation of wind power imbalances can be seen as a secondary function for the storage device while it can still participate in the electricity markets on its own.},
+  bibtex_show={true},
+}
