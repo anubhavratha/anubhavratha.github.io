@@ -6,4 +6,5 @@ repo_description_lines_max: 2
 github_repos:
   - anubhavratha/conic_electricity_markets
   - anubhavratha/ng_stochastic_control_and_pricing
-  - anubhavratha/lecture-feasibility-studies-renewable-energy-projects
+  - anubhavratha/PSCC_NG_EL_FlexibilityAffinePolicies
+  - anubhavratha/policy_based_reserves_CDC_2019
