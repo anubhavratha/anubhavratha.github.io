@@ -34,7 +34,7 @@ Previously, I co-founded a CleanTech startup, <a href="https://sharedelectric.co
 
 I am passionate about writing on the topics of climate change, energy economics, and energy policy, with a specific focus on developing countries. My articles are published in <a href="https://medium.com/clean-energy-for-billions">Clean Energy for Billions</a>. 
 
-<!-- As a person, I enjoy engaging in persuasive communication by effectively breaking down complex scientific ideas and in mentoring and inspiring colleagues. I thrive in uncertain, dynamic, and complex environments where I apply my skills to discover solutions that are novel, optimal, and compassionate, while balancing various constraints and viewpoints. -->
+As a person, I enjoy engaging in persuasive communication by effectively breaking down complex scientific ideas and in mentoring and inspiring colleagues. I thrive in uncertain, dynamic, and complex environments where I apply my skills to discover solutions that are novel, optimal, and compassionate, while balancing various constraints and viewpoints.
 
 My core technical expertise lies in energy markets, stochastic optimization, game theory, probability and statistics, forecasting, product management, and software development. 
 
