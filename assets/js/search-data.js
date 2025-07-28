@@ -183,10 +183,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_tyranny_of_merit/";
-            },},{id: "news-website-launched-sparkles-smile",
-          title: 'Website launched! :sparkles: :smile:',
+            },},{id: "news-our-paper-on-contractual-flexibility-for-power-to-x-projects-was-presented",
+          title: 'Our paper on contractual flexibility for Power-to-X projects was presented!',
           description: "",
-          section: "News",},{
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-05-30_ptx_contract_flexibility_paper/";
+            },},{id: "news-opinion-article-on-the-role-of-electricity-markets-in-clean-energy-transition",
+          title: 'Opinion article on the role of electricity markets in clean energy transition',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-07-27_electricity_markets_article_compilation/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
