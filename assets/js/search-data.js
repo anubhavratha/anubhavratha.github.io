@@ -193,7 +193,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-07-27_electricity_markets_article_compilation/";
-            },},{
+            },},{id: "news-started-as-senior-quantitative-analyst-at-copenhagen-energy-trading",
+          title: 'Started as Senior Quantitative Analyst at Copenhagen Energy Trading!',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
