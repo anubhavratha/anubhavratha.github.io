@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Independent Researcher || EE PhD with focus on energy markets
+subtitle: Senior Quantitative Analyst || EE PhD with focus on energy markets
 
 profile:
   align: right
@@ -26,9 +26,9 @@ latest_posts:
 
 #### Hi and welcome!
 
-I am a Researcher, currently on a brief career break, working on a few cool personal projects.  Until recently, I was working as Optimization Specialist in the R&D division at <a href="https://www.vestas.com/en"> Vestas Wind Systems </a> in Denmark after receiving my PhD degree from <a href="https://www.dtu.dk/english/">Technical University of Denmark (DTU)</a>. 
+I am a Researcher and recently started working as a Senior Quantitative Analyst at <a href="https://copenhagen-energytrading.com"> Copenhagen Energy Trading </a>. Until recently, I was working as Optimization Specialist in the R&D division at <a href="https://www.vestas.com/en"> Vestas Wind Systems </a> in Denmark after receiving my PhD degree from <a href="https://www.dtu.dk/english/">Technical University of Denmark (DTU)</a>. 
 
-At Vestas, I developed algorithms for risk-aware participation of wind and wind-based hybrid power plants, e.g., power-to-x, in energy markets. During my PhD, I developed novel market mechanisms and products for energy systems (electricity and gas) to better integrate weather-dependent renewable energy sources (solar, wind) into the energy markets. 
+At Vestas, I developed algorithms for risk-aware participation of wind and wind-based hybrid power plants, e.g., power-to-x, in energy markets. During my PhD, I proposed novel market mechanisms and products for energy systems (electricity and gas) to better integrate weather-dependent renewable energy sources (solar, wind) into the energy markets. 
 
 Previously, I co-founded a CleanTech startup, <a href="https://sharedelectric.com">Shared Electric</a>, based out of Zurich, Switzerland, where we built demand response solutions to accelerate the clean energy transition in Europe and India. 
 
@@ -40,3 +40,4 @@ My core technical expertise lies in energy markets, stochastic optimization, gam
 
 Research topics of current interest to me are data markets and value of information in energy markets, challenges at the intersection of AI and climate change, and bottlenecks to renewable energy projects. 
 
+[At CET, I lead our efforts to maximize operational value of energy storage systems in energy markets to bring flexibility to support the clean energy transition.]: #
