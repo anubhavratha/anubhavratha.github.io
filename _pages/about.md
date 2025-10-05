@@ -26,7 +26,7 @@ latest_posts:
 
 #### Hi and welcome!
 
-I am a Researcher and recently started working as a Senior Quantitative Analyst at <a href="https://copenhagen-energytrading.com"> Copenhagen Energy Trading </a>. Until recently, I was working as Optimization Specialist in the R&D division at <a href="https://www.vestas.com/en"> Vestas Wind Systems </a> in Denmark after receiving my PhD degree from <a href="https://www.dtu.dk/english/">Technical University of Denmark (DTU)</a>. 
+I am a Researcher based in Denmark, working as a Senior Quantitative Analyst at <a href="https://copenhagen-energytrading.com"> Copenhagen Energy Trading (CET)</a>. At CET, I lead flexible-asset-backed algorithmic trading of energy in the Nordic energy and ancillary service markets. Until recently, I was working as Optimization Specialist in the R&D division at <a href="https://www.vestas.com/en"> Vestas Wind Systems </a> in Denmark after receiving my PhD degree from <a href="https://www.dtu.dk/english/">Technical University of Denmark (DTU)</a>. 
 
 At Vestas, I developed algorithms for risk-aware participation of wind and wind-based hybrid power plants, e.g., power-to-x, in energy markets. During my PhD, I proposed novel market mechanisms and products for energy systems (electricity and gas) to better integrate weather-dependent renewable energy sources (solar, wind) into the energy markets. 
 
